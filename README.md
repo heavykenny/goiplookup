@@ -6,7 +6,7 @@ A tool to lookup IP address from URL
 Using go get, download the package with the command below
 
 ```
-go get github.com/heavykenny/goiplookup@latest
+go get github.com/heavykenny/goiplookup
 ```
 
 ### Usage of GoIPLookUp:
